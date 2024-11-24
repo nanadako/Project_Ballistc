@@ -72,4 +72,3 @@ Feito em parceria com o Nathan.
 ---
 
 **Nota:** Este código foi desenvolvido como parte de um projeto acadêmico e não é destinado para aplicações de alta precisão.
-```
